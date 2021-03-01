@@ -1,4 +1,4 @@
-### Hi everyone!👋 Welcome on my profile
+### Hello everyone!👋
 
 My name is **Gerlando** and I'm a MSc student at _Politecnico di Milano_.</br>
 🔭 I’m currently working on my Master Thesis about Multi-armed bandits in non-stationary environments.</br>
