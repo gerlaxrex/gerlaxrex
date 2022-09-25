@@ -11,7 +11,7 @@ In my free time I study new ML and AI techniques and implement them. Here you ca
 
 **Main Languages**: C, C++, Java and Python.<br>
 **Most used libraries and frameworks**: Scikit-learn, Scikit-image, Pandas, Matplotlib, Tensorflow, Keras, Pytorch.<br>
-**What am I currently doing?**: I'm studying and mastering novel techniques for **Image Segmentation** (U-Net with DWT), **Object Detection** (Fast RCNN, Faster RCNN), **NLP** (Bert and its variants) also **Recommender Systems**!<br>
+**What am I currently doing?**: I'm studying and mastering novel techniques for **Image Segmentation** (U-Net with DWT), **Object Detection** (Fast RCNN, Faster RCNN, YOLOs), **NLP** (Bert and its variants) also **Recommender Systems**!<br>
 
 ### Links to other platforms
 
